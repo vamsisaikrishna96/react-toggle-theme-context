@@ -6,7 +6,7 @@ export function useToggleContext() {
   return useContext(ToggleContext);
 }
 
-//custom hooks
+//custom hooks using context
 
 export function useThemeContext() {
   return useContext(ThemeContext);
