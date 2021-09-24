@@ -6,6 +6,8 @@ export function useToggleContext() {
   return useContext(ToggleContext);
 }
 
+//custom hooks
+
 export function useThemeContext() {
   return useContext(ThemeContext);
 }
